@@ -15,21 +15,23 @@ The Non-Invasive Glucometer project focuses on creating a device that can measur
 ## Features
 Non-Invasive Measurement:
 
--Uses thermal technology to measure glucose levels.
--Painless and easy to use.
--User-Friendly Interface
--Mobile app integration for real-time monitoring.
--Data visualization and historical data tracking.
--Accurate and Reliable
--High accuracy comparable to traditional glucometers.
--Continuous monitoring capability.
+- Uses thermal technology to measure glucose levels.
+- Painless and easy to use.
+- User-Friendly Interface
+- Mobile app integration for real-time monitoring.
+- Data visualization and historical data tracking.
+- Accurate and Reliable
+- High accuracy comparable to traditional glucometers.
+- Continuous monitoring capability.
 
 ## Installation
 To get started with the project, clone the repository and install the necessary dependencies:
 
-git clone https://github.com/Prathisthapandey12/Non-invasive-Glucometer.git
-cd Non-invasive-Glucometer
-Ensure you have c++ and other required software installed, then install the necessary packages.
+1.git clone https://github.com/Prathisthapandey12/Non-invasive-Glucometer.git
+
+2.cd Non-invasive-Glucometer
+
+3.Ensure you have c++ and other required software installed, then install the necessary packages.
 
 ## Usage
 
