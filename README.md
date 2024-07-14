@@ -13,48 +13,40 @@ Welcome to the Non-Invasive Glucometer repository. This project aims to develop 
 The Non-Invasive Glucometer project focuses on creating a device that can measure blood glucose levels without the need for blood samples. This technology aims to improve the quality of life for individuals with diabetes by providing a convenient and pain-free method of monitoring their blood glucose.
 
 ## Features
-Non-Invasive Measurement
-Uses optical/thermal/electromagnetic technology to measure glucose levels.
-Painless and easy to use.
-User-Friendly Interface
-Mobile app integration for real-time monitoring.
-Data visualization and historical data tracking.
-Accurate and Reliable
-High accuracy comparable to traditional glucometers.
-Continuous monitoring capability.
+Non-Invasive Measurement:
+
+-Uses thermal technology to measure glucose levels.
+-Painless and easy to use.
+-User-Friendly Interface
+-Mobile app integration for real-time monitoring.
+-Data visualization and historical data tracking.
+-Accurate and Reliable
+-High accuracy comparable to traditional glucometers.
+-Continuous monitoring capability.
 
 ## Installation
 To get started with the project, clone the repository and install the necessary dependencies:
 
-git clone https://github.com/yourusername/non-invasive-glucometer.git
-cd non-invasive-glucometer
-Ensure you have Python and other required software installed, then install the necessary packages:
+git clone https://github.com/Prathisthapandey12/Non-invasive-Glucometer.git
+cd Non-invasive-Glucometer
+Ensure you have c++ and other required software installed, then install the necessary packages.
 
 ## Usage
-Device Setup
-Follow the instructions in the docs/setup_guide.md to assemble the hardware components.
-Connect the device to your computer or mobile device as described in the setup guide.
-Running the Software
-To start the software for the non-invasive glucometer, use the following command:
 
-bash
-Copy code
-python main.py
-Follow the on-screen instructions to calibrate the device and start measuring glucose levels.
+1.Device Setup
+ - Connect the device to your mobile device using Bluetooth.
 
-Mobile App
-Install the mobile app from the App Store or Google Play.
-Pair your device with the app via Bluetooth.
-Use the app to monitor and track your glucose levels in real-time.
+2.Running the Software
+ - To start the software for the non-invasive glucometer, use the following command:
+   g++ code.cpp
+ - Follow the on-screen instructions to calibrate the device and start measuring glucose levels.
 
-Fork the repository.
-Create a new branch: git checkout -b feature-branch-name
-Make your changes and commit them: git commit -m 'Add new feature'
-Push to the branch: git push origin feature-branch-name
-Create a pull request.
-Please ensure your code follows the project's coding standards and includes tests where applicable.
+3.Mobile App
+ - Install the bluetooth-mobile app from the App Store .
+ - Pair your device with the app via Bluetooth.
+ - Use the app to monitor and track your glucose levels in real-time.
 
-Contact
+## Contact
  - Name: Prathistha Pandey
  - Github: Prathisthapandey12
 
