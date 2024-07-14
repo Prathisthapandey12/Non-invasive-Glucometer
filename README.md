@@ -54,9 +54,7 @@ Push to the branch: git push origin feature-branch-name
 Create a pull request.
 Please ensure your code follows the project's coding standards and includes tests where applicable.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Contact
-For questions or feedback, please contact us at your-email@example.com.
+ - Name: Prathistha Pandey
+ - Github: Prathisthapandey12
 
